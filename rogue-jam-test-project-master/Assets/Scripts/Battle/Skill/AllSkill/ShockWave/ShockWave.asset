@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b324e446d826a5c468341f27b732c74c, type: 3}
+  m_Name: ShockWave
+  m_EditorClassIdentifier: 
+  skillName: Shock Wave
+  skillType: 3
+  skillRhythm: JKLL
+  mpUsage: 1
+  skillSprite: {fileID: 21300000, guid: bdc04d24a4146a0459a48140d0d9117b, type: 3}
+  particle: {fileID: 8931385616410002825, guid: 88b955900dcc3134890661c77439123b,
+    type: 3}
+  pushForce: {x: 4, y: 3}
+  influentSize: {x: 5, y: 1}
